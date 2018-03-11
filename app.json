@@ -1,5 +1,7 @@
 {
   "expo": {
+    "name": "React-Native Tic-Tac-Toe",
+    "slug": "expo.io/@royede/slug",
     "sdkVersion": "25.0.0"
   }
 }
