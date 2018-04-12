@@ -2,6 +2,7 @@
   "expo": {
     "name": "React-Native Tic-Tac-Toe",
     "slug": "ReactNative_Tic-Tac-Toe",
-    "sdkVersion": "25.0.0"
+    "sdkVersion": "25.0.0",
+    "githubUrl": "https://github.com/RoyEde/react-native_tic-tac-toe"
   }
 }
